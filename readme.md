@@ -1,3 +1,3 @@
 ```
-	My project
+	setting up repository for project
 ```
